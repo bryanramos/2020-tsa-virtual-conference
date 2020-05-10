@@ -1,0 +1,26 @@
+[
+    {
+        "text": "Schedule",
+        "label": "Schedule",
+        "path": "/schedule",
+        "external": false
+    },
+    {
+        "text": "Officer Elections",
+        "label": "Officer Elections",
+        "path": "/officer-elections",
+        "external": false
+    },
+    {
+        "text": "General Sessions",
+        "label": "General Sessions",
+        "path": "https://www.youtube.com/channel/UC9pW5BZcrhFb8IEMNKCboPA/",
+        "external": true
+    },
+    {
+        "text": "Board of Directors",
+        "label": "Board of Directors",
+        "path": "/bod-elections",
+        "external": false
+    }
+]
